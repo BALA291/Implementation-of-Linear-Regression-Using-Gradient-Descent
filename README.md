@@ -1,4 +1,4 @@
-# Implementation-of-Linear-Regression-Using-Gradient-Descent
+# EX-03 Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
@@ -70,7 +70,14 @@ print(f"Predicted value:  {pre}")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+
+# DATASET
+![HEAD](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/f7d3db37-45e3-430d-a3fd-816cac51510e)
+![X VAL](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/2fb7c775-7771-4129-83da-b8f7356c56e7)
+![Y VAL](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/4b4eb5be-47c5-4df1-9664-c05b9236faa2)
+![XSCALE](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/a3c16c42-e8ef-47dd-9a2e-0aeb764a646c)
+![YSCALE](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/fb811c05-5b67-41f3-8206-d1609594314d)
+![PRED](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/9cac15cd-3ee8-4a99-9b8d-114850ac8190)
 
 
 ## Result:
