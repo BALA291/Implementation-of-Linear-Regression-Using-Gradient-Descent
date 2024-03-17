@@ -81,6 +81,8 @@ print(f"Predicted value:  {pre}")
 # X AND Y SCALED
 ![XSCALE](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/a3c16c42-e8ef-47dd-9a2e-0aeb764a646c)
 ![YSCALE](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/fb811c05-5b67-41f3-8206-d1609594314d)
+
+# PREDICTED VALUE
 ![PRED](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/9cac15cd-3ee8-4a99-9b8d-114850ac8190)
 
 
