@@ -73,8 +73,12 @@ print(f"Predicted value:  {pre}")
 
 # DATASET
 ![HEAD](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/f7d3db37-45e3-430d-a3fd-816cac51510e)
+
+# X AND Y VALUES
 ![X VAL](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/2fb7c775-7771-4129-83da-b8f7356c56e7)
 ![Y VAL](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/4b4eb5be-47c5-4df1-9664-c05b9236faa2)
+
+# X AND Y SCALED
 ![XSCALE](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/a3c16c42-e8ef-47dd-9a2e-0aeb764a646c)
 ![YSCALE](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/fb811c05-5b67-41f3-8206-d1609594314d)
 ![PRED](https://github.com/BALA291/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120717501/9cac15cd-3ee8-4a99-9b8d-114850ac8190)
